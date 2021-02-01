@@ -1,43 +1,9 @@
 <!-- ![Repository Banner](headerimage.png) -->
 <!-- #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources. -->
 
-## Table of Contents
+## Tabla de contenido
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Colors](#colors)
-- [Icons](#icons)
-- [Logos](#logos)
-- [Favicons](#favicons)
-- [Icon Fonts](#icon-fonts)
-- [Stock Photos](#stock-photos)
-- [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clipart](#vectors--clip-art)
-- [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
-- [CSS Frameworks](#css-frameworks)
-- [CSS Methodologies](#css-methodologies)
-- [CSS Animations](#css-animations)
-- [Javascript Animations](#javascript-animation-libraries)
-- [UI Components & Kits](#ui-components--kits)
-- [React UI Libraries](#react-ui)
-- [Vue UI Libraries](#vue-ui)
-- [Angular UI Libraries](#angular-ui)
-- [Svelte UI Libraries](#svelte-ui)
-- [Design Systems & Style Guides](#design-systems--style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Inspiration](#design-inspiration)
-- [Image Compression](#image-compression)
-- [Chrome Extensions](#chrome-extensions)
-- [Others](#others)
-
-## UI Graphics
-
->Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+<!-- | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        | -->
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
