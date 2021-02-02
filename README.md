@@ -12,8 +12,10 @@
 | [Publicar Web](https://vercel.com/)| en esta pagina sirve para proyectos de desarrollo web de github  y compartir con https://www.frontendmentor.io/ y comparar los retos realizados.|
 | [fontawesome](https://fontawesome.com/kits/1d88763075/use)| web de iconos como facebook y whatsapp para la pagina web. |
 | [flatuicolors](https://flatuicolors.com/)| web de paleta de colores para copiar a los codigo CSS. |
-| [normalize css](https://necolas.github.io/normalize.css/)| archivo CSS para llamar desde HTML5 y restablecimientos de CSS para su mejor diseño. |
-| [bennettfeely](https://bennettfeely.com/clippy/)| web para formar figuras poligonales y aplicar en CSS "clip-path: polygon(50% 0%, 0% 100%, 100% 100%);" este es un triángulo. |
+| [Normalize css](https://necolas.github.io/normalize.css/)| archivo CSS para llamar desde HTML5 y restablecimientos de CSS para su mejor diseño. |
+| [Bennettfeely](https://bennettfeely.com/clippy/)| web para formar figuras poligonales y aplicar en CSS "clip-path: polygon(50% 0%, 0% 100%, 100% 100%);" este es un triángulo. |
+| [Color Gradiente](https://mycolor.space/)| para generar color gradiente para el CSS.  |
+| [Figma](https://www.figma.com/)| para crear diseños a base de maqueta para una web similar a softwrare de imagenes o diseño.  |
 
 
 <div align="right">
