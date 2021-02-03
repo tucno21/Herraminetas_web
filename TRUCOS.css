@@ -3,10 +3,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font: inherit;/*Elimina todo formato de los elementos fuente*/
-    font-size: inherit; /*cambia a 16px todo los elementos*/
 }
 
+html {
+    font-size: 62.5%; /*convierte los 16px de raiz a 10px para la nueva raiz*/
+	font: inherit;/*Elimina todo formato de los elementos fuente*/
+    font-size: inherit; /*cambia a 16px todo los elementos*/
+}
 
 /* centrar contenido o toda la caja en el layout */
 
@@ -97,4 +100,10 @@ p    { ... }
 
 /*1440px*/
 @media screen and (min-width: 90em)
+
+@media screen and (min-width: 1400px) {
+    box_total {
+        transform: scale(1.15); /*escala todo el body o caja del contenido*/
+    }
+}
 
