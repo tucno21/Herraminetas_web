@@ -1,8 +1,18 @@
+/*RESETAR PARA DISEÑAR*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: inherit;/*Elimina todo formato de los elementos fuente*/
+    font-size: inherit; /*cambia a 16px todo los elementos*/
+}
+
+
 /* centrar contenido o toda la caja en el layout */
 
 .en_PADRE_a_hijos {
-    height: 100vh;
-    width: 100vw; /*obligatorio*/
+    height: 100vh;/*obligatorio*/
+    width: 100vw; 
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -21,6 +31,31 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+/* centrar contenido o toda en la PARTE SUPERIOR */
+.box{
+	margin: 0 auto;
+}
+
+/*FUENTE*/
+body{
+	font-size: 1em; /*16px*/
+}
+
+.hijo {
+	font-size: 1.3em; /*16 x 1.3 =20.8px */
+}
+
+.nieto {
+	font-size: 1.3em; /*20.8 x 1.3 =27.4px */
+}
+
+.box{
+	font-size: 16px;
+	padding: 1.25em; /*depende del tamaño de la fuente de su caja*/
+	margin: 1.25em; /*depende del tamaño de la fuente de su caja*/
+	height: 1.25em; /*depende del tamaño de la fuente de su caja*/
 }
 
 
