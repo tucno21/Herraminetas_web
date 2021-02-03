@@ -1,0 +1,38 @@
+/* centrar contenido o toda la caja en el layout */
+
+.en_PADRE_a_hijos {
+    height: 100vh;
+    width: 100vw; /*obligatorio*/
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.en_PADRE_a_hijos {
+    min-height: 100vh;/*obligatorio*/
+    display: grid;
+    place-items: center;
+    margin: 0;
+}
+
+.solo_HIJO {
+    position: absolute; /*padre de estar en relative*/
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+/* con esto que el hijo empieze de abajo "bottom" del padre y la imagen se mueva a la izquierda en 50% del padre, y con transform : trasladamos -50% a la izquierda solo del elemento(imagen) y baje 50% de la misma imagen o elemento */
+.solo_HIJO {
+    position: absolute; /*padre de estar en relative*/
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    border-radius: 50%;
+}
+
+
+
+
