@@ -61,6 +61,9 @@ body{
 	height: 1.25em; /*depende del tamaño de la fuente de su caja*/
 }
 
+box{
+	box-shadow:0 10px 25px rgba(92,99,105,.2)
+}
 
 /* con esto que el hijo empieze de abajo "bottom" del padre y la imagen se mueva a la izquierda en 50% del padre, y con transform : trasladamos -50% a la izquierda solo del elemento(imagen) y baje 50% de la misma imagen o elemento */
 .solo_HIJO {

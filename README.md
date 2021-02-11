@@ -15,7 +15,9 @@
 | [Normalize css](https://necolas.github.io/normalize.css/)| archivo CSS para llamar desde HTML5 y restablecimientos de CSS para su mejor diseño. |
 | [Bennettfeely](https://bennettfeely.com/clippy/)| web para formar figuras poligonales y aplicar en CSS "clip-path: polygon(50% 0%, 0% 100%, 100% 100%);" este es un triángulo. |
 | [Color Gradiente](https://mycolor.space/)| para generar color gradiente para el CSS.  |
-| [Figma](https://www.figma.com/)| para crear diseños a base de maqueta para una web similar a softwrare de imagenes o diseño.  |
+| [Figma](https://www.figma.com/)| para crear diseños a base de maqueta para una web similar a softwrare de imagenes o diseño. |
+| [cubic-bezier](https://cubic-bezier.com/)| genera curva de para animation y transition en la propiedad animation-timing-function. |
+| [box-shadow](https://www.cssmatic.com/es/box-shadow)| generador de sombra para la cajas. |
 
 
 <div align="right">
